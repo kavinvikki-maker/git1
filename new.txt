@@ -1,3 +1,6 @@
 have created text file tp push github
 git clone
 git add
+git commit
+git push
+git pull
