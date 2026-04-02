@@ -7,4 +7,3 @@ git pull
 git init
 git branch
 git branch -a
-no
